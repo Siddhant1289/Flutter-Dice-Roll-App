@@ -8,7 +8,7 @@ void main() {
           backgroundColor: Color.fromARGB(255, 55, 187, 73),
           body: GradientContainer(
             Color.fromARGB(255, 8, 6, 81),
-            Color.fromARGB(255, 79, 25, 229),
+            Color.fromARGB(255, 142, 107, 239),
           )),
     ),
   );
